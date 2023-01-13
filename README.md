@@ -8,7 +8,7 @@
 
 Ссылка на ЛК Ростелеком - https://b2c.passport.rt.ru 
 
-Ссылка на тест-кейсы, баг-репорты и анализ требований - 
+Ссылка на тест-кейсы, баг-репорты и анализ требований - https://docs.google.com/spreadsheets/d/1oZTgL1KXbAPfj8Dbd9YfJLtPeOhpwjmw/edit?usp=share_link&ouid=117794246229305434175&rtpof=true&sd=true
 
 По заданию тестирования необходимо:
 - протестировать требования.
